@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 
 # Rechenansatz:
 banane_morgens = 7                  # Variable für die Anzahl der Bananen, die jeder bekommen soll
