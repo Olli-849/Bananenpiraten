@@ -1,3 +1,4 @@
+python main.py
 """
 # Rechenansatz:
 banane_morgens = 7                  # Variable für die Anzahl der Bananen, die jeder bekommen soll
