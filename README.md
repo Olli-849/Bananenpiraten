@@ -35,5 +35,5 @@ geschrumpften Haufen und so wird nochmals durch drei geteilt.
 Wieder erhält ein Affe eine Banane, da die Division nicht aufgeht.
 
 -->
-Schreibe ein Programm, das ermittelt wieviele Bananen
+Schreibe ein Programm, das ermittelt, wie viele Bananen
 die Piraten mindestens gesammelt haben.
